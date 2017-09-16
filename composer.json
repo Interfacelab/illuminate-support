@@ -1,5 +1,5 @@
 {
-  "name": "ilab/support",
+  "name": "ilab/illuminate-support",
   "description": "The Illuminate Support package.",
   "license": "MIT",
   "homepage": "https://laravel.com",
@@ -17,7 +17,7 @@
     "php": ">=7.0",
     "ext-mbstring": "*",
     "doctrine/inflector": "~1.1",
-    "ilab/contracts": "5.6.*",
+    "ilab/illuminate-contracts": "5.6.*",
     "nesbot/carbon": "^1.20"
   },
   "replace": {
@@ -48,7 +48,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/interfacelab/ilab-contracts"
+      "url": "https://github.com/interfacelab/ilab-illuminate-contracts"
     }
   ]
 }
