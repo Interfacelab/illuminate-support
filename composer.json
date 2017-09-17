@@ -45,10 +45,8 @@
     "sort-packages": true
   },
   "minimum-stability": "dev",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/interfacelab/ilab-illuminate-contracts"
-    }
-  ]
+  "repositories": [{
+    "type": "composer",
+    "url": "https://packages.interfacelab.io"
+  }]
 }
